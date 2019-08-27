@@ -1,6 +1,8 @@
 $(document).ready(function(){
 
 	"use strict";
+	
+	
     
 
     // 1. Scroll To Top 
@@ -32,11 +34,16 @@ $(document).ready(function(){
 		});
 
     
-
+     // 2. Video playback
+    
+   
+  document.querySelector('video').playbackRate = 0.75;
 
    
+   
+   
 
-    // 2. Carousel (Take Part #teams-carousel)
+    // 3. Carousel (Take Part #teams-carousel)
     
         
         
@@ -72,7 +79,7 @@ $(document).ready(function(){
 
 
 
-    // 3. Smooth Scroll spy
+    // 4. Smooth scroll
         
         $('.header-area').sticky({
            topSpacing:0
@@ -93,7 +100,7 @@ $(document).ready(function(){
             offset:0
         });
 
-    // 4.animation support
+    // 5. Animation support
 
         $(window).load(function(){
 
