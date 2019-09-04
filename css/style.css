@@ -672,6 +672,11 @@ z-index: -1;
 /* Venue */
 
 
+.venues-head {background: #000; margin: 0 0 50px;}
+
+.venues-head h1 {text-align: center; margin: 120px auto 80px; font-size: 90px; color: #fff;}
+
+
 .venue {
 	padding: 0 0 80px;
 	/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#ffffff+0,e2e2e2+100 */
