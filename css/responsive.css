@@ -111,6 +111,10 @@
 .info h2, .info p {
 	color: #fff;
 }
+	  
+.venue-card {
+	height:auto;
+	  }
 .info-card {
 	height: 600px;
 }
@@ -250,7 +254,7 @@ video {
 .info h2, .info p {
 	color: #fff;
 }
-.info-card {
+.info-card, .venue-card {
 	height: auto;
 }
 .info-card p {
