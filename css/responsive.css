@@ -138,7 +138,7 @@
 }
 .sign-up {
 	position: relative;
-	background: #000 url(../images/sign-up/join.gif) no-repeat top right;
+	background: #000 url(../images/info/experience.jpg) no-repeat top left;
 	background-size: cover;
 	z-index: 1;
 }
