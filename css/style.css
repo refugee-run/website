@@ -552,7 +552,7 @@ p.name a {
 .abaya {
 	padding: 100px 0 100px;
 	position: relative;
-	background: url(../images/on-the-day/abaya.gif) no-repeat top right;
+	background: #000 url(../images/on-the-day/abaya.gif) no-repeat top right;
 	background-size: contain;
 	background-attachment: scroll;
 	z-index: 1;
