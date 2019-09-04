@@ -223,10 +223,6 @@ html, body {
 	overflow: hidden;
 	z-index: -1;
 	background-color: #000;
-	background-image: url(../video/vidbg.gif);
-	background-size: cover;
-	background-position: center;
-	
 }
 video {
 	display: block;
