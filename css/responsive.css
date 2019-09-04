@@ -137,9 +137,9 @@
 }
 .sign-up {
 	position: relative;
-	background: #000 url(../images/sign-up/join.jpg) no-repeat top center;
+	/*background: #000 url(../images/sign-up/join.gif) no-repeat top center;
 	background-size: cover;
-	z-index: 1;
+	z-index: 1;*/
 }
 .preferred-venue {
 	left: 50px;
