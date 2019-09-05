@@ -540,7 +540,7 @@ p.name {
 	margin: -20px 0 0;
 }
 
-p.name a {
+p a.name {
 	color: #fff;
 	text-decoration:underline;
 }
