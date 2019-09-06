@@ -42,7 +42,6 @@
 }
 .sign-up {
 	position: relative;
-	background: #000 url(../images/info/experience.jpg) no-repeat top left;
 	background-size: cover;
 	z-index: 1;
 }
@@ -147,8 +146,6 @@
 	/* IE6-9 */
 }
 .sign-up {
-	position: relative;
-	background: #000 url(../images/info/experience.jpg) no-repeat top right;
 	background-size: cover;
 	z-index: 1;
 }
