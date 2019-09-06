@@ -867,7 +867,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', end
 /* Sign up */
 .sign-up {
 	position: relative;
-	background: #000 url(../images/on-the-day/joinus.gif) no-repeat top right;
+	background: #000 url(../images/on-the-day/joinus.gif) no-repeat center right;
 	background-size: cover;
 	z-index: 1;
 }
