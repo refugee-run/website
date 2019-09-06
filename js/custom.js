@@ -54,7 +54,7 @@ $(document).ready(function(){
             
             loop:true,
             autoplay:true,
-            smartSpeed:1000,
+            smartSpeed:2000,
             dots:true,
             autoplayHoverPause:true,
         
