@@ -47,7 +47,7 @@
 	z-index: 1;
 }
 .sign-up:after {
-	background: rgba(0, 0, 0, 0.5);
+	background: rgba(0, 0, 0, 0.3);
 }
 .preferred-venue {
 	left: 0;
