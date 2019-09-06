@@ -43,7 +43,7 @@
 .sign-up {
 	position: relative;
 	background-position: center center;
-	background-size: cover;
+	background-size: contain;
 	z-index: 1;
 }
 .sign-up:after {
