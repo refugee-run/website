@@ -42,11 +42,12 @@
 }
 .sign-up {
 	position: relative;
+	background-position: center center;
 	background-size: cover;
 	z-index: 1;
 }
 .sign-up:after {
-	background: rgba(0, 0, 0, 0.2);
+	background: rgba(0, 0, 0, 0.5);
 }
 .preferred-venue {
 	left: 0;
@@ -145,10 +146,7 @@
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#000000',GradientType=0 );
 	/* IE6-9 */
 }
-.sign-up {
-	background-size: cover;
-	z-index: 1;
-}
+
 .preferred-venue {
 	left: 50px;
 }
