@@ -37,7 +37,7 @@ $(document).ready(function(){
      // 2. Video playback
     
    
-  document.querySelector('video').playbackRate = 0.75;
+  document.querySelector('video').playbackRate = 0.7;
 
    
    
